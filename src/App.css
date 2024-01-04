@@ -1,0 +1,30 @@
+.google_tab_body {
+  align-items: center;
+  text-align: center;
+}
+
+.homhe_bt_one {
+  background-color: rgb(225, 225, 225);
+  border-radius: 20px;
+  margin: 2%;
+  padding: 2%;
+}
+
+.tex_microphon {
+  background-color: rgb(233, 233, 233);
+  width: auto;
+  height: 30px;
+  color: rgb(0, 0, 0);
+  border-radius: 10px;
+  margin: 5%;
+  padding: 2%;
+}
+.mi_bt{
+
+  background-color: rgb(255, 255, 255);
+  padding-left: 5%;
+  padding-right: 5%;
+  margin-left: 5%;
+  margin-right: 5%;
+
+}
