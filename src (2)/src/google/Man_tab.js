@@ -4,7 +4,7 @@ import { Tabs } from 'antd';
 import { HomeOutlined, ControlOutlined, SettingOutlined } from '@ant-design/icons';
 import Home from './Home';
 import Contron from './Contron';
-import Setting from './Setting';
+
 const { TabPane } = Tabs;
 
 const Index = () => {
@@ -41,7 +41,7 @@ const Index = () => {
           <span>ตั้งค่า</span>
         </div>
       ),
-      content:  <Setting/>,
+      content: /* เพิ่มเนื้อหาของแท็บตั้งค่าที่นี่ */ null,
     },
   ];
 
